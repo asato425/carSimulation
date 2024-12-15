@@ -1,0 +1,6 @@
+step 1
+2 2 N E
+step 2
+3 2 E G
+step 3
+3 2 G G

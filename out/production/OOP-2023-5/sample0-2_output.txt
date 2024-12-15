@@ -1,0 +1,8 @@
+step 1
+4 3 S S
+step 2
+4 2 S S
+step 3
+4 1 S G
+step 4
+4 1 G G

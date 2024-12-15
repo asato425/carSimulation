@@ -1,0 +1,117 @@
+step 1
+3 7 N N
+8 11 S S
+step 2
+3 8 N N
+8 10 S E
+step 3
+3 9 N N
+9 10 E E
+step 4
+3 10 N E
+10 10 E S
+step 5
+4 10 E E
+10 9 S S
+step 6
+5 10 E E
+10 8 S S
+step 7
+6 10 E S
+10 7 S W
+step 8
+6 9 S S
+9 7 W W
+step 9
+6 8 S S
+8 7 W S
+step 10
+6 7 S E
+8 6 S S
+step 11
+7 7 E E
+8 5 S E
+step 12
+8 7 E S
+9 5 E E
+step 13
+8 6 S S
+10 5 E S
+step 14
+8 5 S E
+10 4 S S
+step 15
+9 5 E E
+10 3 S S
+step 16
+10 5 E S
+10 2 S W
+step 17
+10 4 S S
+9 2 W W
+step 18
+10 3 S S
+8 2 W N
+step 19
+10 2 S W
+8 3 N N
+step 20
+9 2 W W
+8 4 N N
+step 21
+8 2 W N
+8 5 N N
+step 22
+8 3 N N
+8 6 N N
+step 23
+8 4 N N
+8 7 N N
+step 24
+8 5 N W
+8 8 N N
+step 25
+7 5 W W
+8 9 N N
+step 26
+6 5 W W
+8 10 N W
+step 27
+5 5 W W
+7 10 W W
+step 28
+4 5 W W
+6 10 W S
+step 29
+3 5 W W
+6 9 S S
+step 30
+2 5 W W
+6 8 S S
+step 31
+1 5 W G
+6 7 S W
+step 32
+1 5 G G
+5 7 W W
+step 33
+1 5 G G
+4 7 W W
+step 34
+1 5 G G
+3 7 W S
+step 35
+1 5 G G
+3 6 S S
+step 36
+1 5 G G
+3 5 S W
+step 37
+1 5 G G
+2 5 W W
+step 38
+1 5 G G
+1 5 W G
+step 39
+1 5 G G
+1 5 G G

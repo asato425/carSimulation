@@ -1,0 +1,25 @@
+step 1
+2 2 W S
+2 2 S S
+2 2 E S
+2 2 N N
+step 2
+2 2 W S
+2 1 S G
+2 2 E S
+2 3 N G
+step 3
+2 1 S G
+2 1 G G
+2 2 E S
+2 3 G G
+step 4
+2 1 G G
+2 1 G G
+2 1 S G
+2 3 G G
+step 5
+2 1 G G
+2 1 G G
+2 1 G G
+2 3 G G

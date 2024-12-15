@@ -1,0 +1,36 @@
+step 1
+2 3 E E
+2 3 W W
+step 2
+3 3 E E
+1 3 W W
+step 3
+4 3 E E
+0 3 W S
+step 4
+5 3 E G
+0 2 S S
+step 5
+5 3 G G
+0 1 S S
+step 6
+5 3 G G
+0 0 S E
+step 7
+5 3 G G
+1 0 E E
+step 8
+5 3 G G
+2 0 E E
+step 9
+5 3 G G
+3 0 E E
+step 10
+5 3 G G
+4 0 E N
+step 11
+5 3 G G
+4 1 N G
+step 12
+5 3 G G
+4 1 G G
